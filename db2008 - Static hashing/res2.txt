@@ -1,0 +1,122 @@
+
+RESULT OF DELETION #1
+
+
+RESULT OF DELETION #2
+
+Deleting SPAQARAKH SOFIA
+Deleting STAMATIADOY ARTEMIS
+Deleting LYRISTHS EYSTAQIOS
+Deleting ZANAKHS MIXAHL
+4 records deleted
+
+
+******************
+RESULT OF QUERY #1
+******************
+
+'TAGKOPOYLOS DHMHTRIOS' 
+
+
+******************
+RESULT OF QUERY #2
+******************
+
+'PISIDOY ANTIGONH' 
+'TSAKIROGLOY ANASTASIOS' 
+'SKLABOS APOSTOLOS' 
+
+
+******************
+RESULT OF QUERY #3
+******************
+ZYMARIKA was not found... (Note: This is the correct behaviour!): Reached end of file
+
+
+******************
+RESULT OF QUERY #4
+******************
+
+salary: 400.00 
+Department id:  204 
+
+salary: 227.20 
+Department id:  204 
+
+salary: 328.50 
+Department id:  204 
+
+salary: 286.70 
+Department id:  204 
+
+salary: 198.20 
+Department id:  204 
+
+salary: 347.10 
+Department id:  204 
+
+salary: 377.00 
+Department id:  204 
+
+salary: 228.40 
+Department id:  204 
+
+salary: 337.90 
+Department id:  204 
+
+salary: 438.90 
+Department id:  204 
+
+salary: 298.60 
+Department id:  204 
+
+salary: 356.90 
+Department id:  204 
+
+salary: 469.10 
+Department id:  204 
+
+salary: 268.20 
+Department id:  204 
+
+salary: 428.60 
+Department id:  204 
+
+salary: 479.20 
+Department id:  204 
+
+salary: 399.00 
+Department id:  204 
+
+
+
+******************
+RESULT OF QUERY #5
+******************
+
+Department id: 208 
+salary: 357.50 
+salary: 278.20 
+salary: 337.10 
+salary: 295.50 
+salary: 359.90 
+salary: 328.10 
+salary: 126.90 
+salary: 288.20 
+salary: 486.20 
+salary: 245.90 
+salary: 418.70 
+salary: 369.20 
+salary: 218.70 
+salary: 228.90 
+salary: 439.90 
+salary: 198.10 
+
+
+
+******************
+RESULT OF QUERY #6
+******************
+
+Department id: 208 
+

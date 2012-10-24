@@ -1,0 +1,5 @@
+EMPNAME file destroyed
+EMPAGE file destroyed
+EMPSAL file destroyed
+EMPDNAME file destroyed
+DEPTNAME file destroyed
